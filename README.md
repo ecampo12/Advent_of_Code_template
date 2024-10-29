@@ -12,4 +12,4 @@ I will mainly be using Go, but I might try some other languages as well.
 
 - I will try to not post my puzzle input, so you will have to get your own.
 - Go solutions were written in go1.23.2, and may not work on older versions.
-- python solutions were written in python 3.12.3, and may not work on older versions. (Got sick around day 18, so switched to python for problems that were easier to solve in python)
+- python solutions were written in python 3.12.3, and may not work on older versions.
