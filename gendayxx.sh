@@ -44,9 +44,7 @@ truncate -s -1 input.txt
 # start python project if second argument is py
 if [ "$2" = "py" ]; then
     # solution stub
-    echo -n "#!/usr/bin/env python3
-    
-def part1(input):
+    echo -n "def part1(input):
     return 0
 
 def part2(input):
